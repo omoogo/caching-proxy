@@ -14,7 +14,7 @@ This project is a learning exercise based on the [Caching Proxy project](https:/
 ## Project Structure
 
 ```
-CachingProxyApp/
+caching-proxy/
 ├── CachingProxy/                          # System.CommandLine-based CLI and proxy logic
 │   ├── Data/                              # Data access layer for caching
 │   │   ├── Entities/
