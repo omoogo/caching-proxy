@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "CachingProxy": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 3000 --origin https://dummyjson.com"
+      //"commandLineArgs": "--clear-cache"
+    }
+  }
+}
